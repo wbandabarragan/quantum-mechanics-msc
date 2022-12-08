@@ -20,7 +20,7 @@ One option is to use Google Colab, which we will use in the classroom. For this 
 
 ## How do I test Google Colab?
 
-1. Download this notebook: [https://github.com/wbandabarragan/nanophys-visualizacion-cientifica/blob/main/02-first-notebook-.ipynb](https://github.com/wbandabarragan/nanophys-visualizacion-cientifica/blob/main/02-first-notebook-.ipynb)
+1. Download this notebook: https://github.com/wbandabarragan/quantum-mechanics-msc/blob/main/programming-material/first-notebook.ipynb
 
 2. Open Goole Colab
 
@@ -38,7 +38,7 @@ Download Anaconda from this website: https://www.anaconda.com/products/individua
 ### On Linux and MacOSX:
 For testing and customising your installation on Linux/MaxOSX laptops/PCs, follow these instructions:
 
-#### Option A: Installation from a terminal (recommended)
+#### Installation from a terminal (recommended):
 
 1. Open a terminal window.<br>
 
@@ -96,12 +96,7 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
 ~~~~
 
 10. Once the notebook is open, you can start coding your first notebook:<br>
-
-[https://github.com/wbandabarragan/nanophys-visualizacion-cientifica/blob/main/02-first-notebook-.ipynb](https://github.com/wbandabarragan/nanophys-visualizacion-cientifica/blob/main/02-first-notebook-.ipynb)
-
-#### Option B: From within a jupyter notebok (this assumes notebooks are already installed):<br>
-
-[https://github.com/wbandabarragan/nanophys-visualizacion-cientifica/blob/main/02-first-notebook-.ipynb](https://github.com/wbandabarragan/nanophys-visualizacion-cientifica/blob/main/02-first-notebook-.ipynb)
+https://github.com/wbandabarragan/quantum-mechanics-msc/blob/main/programming-material/first-notebook.ipynb
 
 
 ### On Windows:
