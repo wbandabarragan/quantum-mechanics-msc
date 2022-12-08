@@ -24,7 +24,7 @@ One option is to use Google Colab, which we will use in the classroom. For this 
 
 2. Open Goole Colab
 
-3. Upload the notebook, and run it. If you see a plot of sin(x) vs. x, your local Google Colab works.
+3. Upload the notebook, and run it. If you see the plots, your local Google Colab works.
 
 ## Anaconda/Miniconda (Recommended in the long term, see https://anaconda.org/):
 
