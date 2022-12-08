@@ -1,4 +1,4 @@
-# Scientific Visualization with Python
+# Python for Quantum Mechanics
 
 ## Introduction and preliminary activities
 
