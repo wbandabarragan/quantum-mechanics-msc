@@ -12,8 +12,18 @@ Wladimir Banda Barragán
 This course provides provides a comprehensive review of quantum experiments and the formal mathematical treatment of quantum theory. The course uses computational tools to study Schrödinger's equation and its solutions for different potentials, emphasising on its importance for the description of experimental data at quantum scales.
 
 ## Saturday/Sunday schedule:
+
 08h00 - 10h30: Lecture
+
 10h30 - 11h00: Coffee break
+
 11h00 - 13h00: Computational Laboratory
+
 13h00 - 14h00: Lunch break
+
 14h00 - 15h30: Lecture/Computational Laboratory
+
+## Evaluation:
+Grading is based on homework and classwork (which include exercise and exam-like quizzes).
+
+The final score will be computed based on the average of all homework and classwork done during the module.
