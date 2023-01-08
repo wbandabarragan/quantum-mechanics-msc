@@ -24,6 +24,6 @@ This course provides provides a comprehensive review of quantum experiments and 
 14h00 - 15h30: Lecture/Computational Laboratory
 
 ## Evaluation:
-Grading is based on homework and classwork (which include exercise and exam-like quizzes).
+Grading is based on homework (25%), classwork (25%), exam-like quizzes (25%), and a final exam (25%).
 
 The final score will be computed based on the average of all homework and classwork done during the module.
