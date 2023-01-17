@@ -21,7 +21,7 @@ This course provides provides a comprehensive review of quantum experiments and 
 
 13h00 - 14h00: Lunch break
 
-14h00 - 15h30: Lecture/Computational Laboratory
+14h00 - 16h30: Lecture/Computational Laboratory
 
 ## Evaluation:
 Grading is based on homework (25%), classwork (25%), exam-like quizzes (25%), and a final exam (25%).
