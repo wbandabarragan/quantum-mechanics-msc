@@ -23,7 +23,7 @@ This course provides provides a comprehensive review of quantum experiments and 
 
 14h00 - 16h30: Lecture/Computational Laboratory
 
-16h30 - 19h30: Autonomous work
+16h30 - 19h30: Autonomous work/homework
 
 ## Evaluation:
 Grading is based on homework (25%), classwork (25%), exam-like quizzes (25%), and a final exam (25%).
